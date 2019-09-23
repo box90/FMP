@@ -67,31 +67,38 @@ class calendarManagement:
         #    print(self.matchesMatrix[i])
         
         self.ValidCalendar = []
-        while(len(self.ValidCalendar) < (((Tournament.numberOf_teams*2)-2)/2)):
-            self.ValidCalendar.append(calendarManagement.set_correctMatches(self, Tournament))
-            print("Creata giornata: " + str(len(self.ValidCalendar)))   
+        #while(len(self.ValidCalendar) < (((Tournament.numberOf_teams*2)-2)/2)):
+        #    self.ValidCalendar.append(calendarManagement.set_correctMatches(self, Tournament))
+        #    print("Creata giornata: " + str(len(self.ValidCalendar))) 
+        self.ValidCalendar = calendarManagement.set_correctMatches(self,Tournament)
 
     
     def set_correctMatches(self,Tournament):
         tmp_combinations = []
-        used_valuesX = [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20]
-        used_valuesY = [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20]
-        
-        for i in range(int(Tournament.numberOf_teams / 2)):
-            #x = random.randint(1,Tournament.numberOf_teams)
-            #y = random.randint(1,Tournament.numberOf_teams)
-            x = random.choice(used_valuesX)
-            y = random.choice(used_valuesY)
+        #used_valuesX = [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20]
+        #used_valuesY = [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20]
+
+        tmpTeams = Tournament.teams
+
+        while len(tmpTeams) > 0:
+            home = random.choice(tmpTeams)
+            tmpTeams.pop(tmpTeams.index(home))
+            away = random.choice(tmpTeams)
+            tmpTeams.pop(tmpTeams.index(away))
+            tmp_combinations.append([home,away])
+        #for i in range(int(Tournament.numberOf_teams / 2)):
+        #    x = random.choice(used_valuesX)
+        #    y = random.choice(used_valuesY)
             
-            while((self.matchesMatrix[x][y] == 1)):
-                x = random.choice(used_valuesX)
-                y = random.choice(used_valuesY)
+        #    while((self.matchesMatrix[x][y] == 1)):
+        #        x = random.choice(used_valuesX)
+        #        y = random.choice(used_valuesY)
                 
-            self.matchesMatrix[x][y] = 1  
-            used_valuesX.pop(used_valuesX.index(x))
-            used_valuesY.pop(used_valuesY.index(y))
+        #    self.matchesMatrix[x][y] = 1  
+        #    used_valuesX.pop(used_valuesX.index(x))
+        #    used_valuesY.pop(used_valuesY.index(y))
              
-            tmp_combinations.append([self.matchesMatrix[x][0],self.matchesMatrix[0][y]])
+        #    tmp_combinations.append([self.matchesMatrix[x][0],self.matchesMatrix[0][y]])
         return tmp_combinations
     
     def printDayMatches(self,index):
@@ -101,6 +108,10 @@ class calendarManagement:
     def printCombinations(self):
         for i in range(len(self.matchesMatrix)):
             print(self.matchesMatrix[i])
+    
+    def printCalendar(self):
+        for i in range(len(self.ValidCalendar)):
+            print(str(self.ValidCalendar[i]))
             
 ####################################################################
 class Scoreboard:

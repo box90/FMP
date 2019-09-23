@@ -183,7 +183,7 @@ class Attributes:
 ##############################
 class Player:
     def __init__(self):
-        self.Values = Attributes();
+        self.Values = Attributes()
         self.name = InfoManagement.setName(random.randint(0,9))
         self.surname = InfoManagement.setSurname(random.randint(0,9))
         self.age = random.randint(18,35)

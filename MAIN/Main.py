@@ -3,15 +3,16 @@ Created on 13 apr 2017
 
 @author: bossima1
 '''
-from TournamentClasses import Tournamen_Management
+from TournamentClasses import Tournament_Management
 from TeamsClasses import Team_Management
 #from PlayerClasses import Player_Management
 from Matches_Management import MatchEngine
 import random
 
 
-SerieA = Tournamen_Management.Tournament()
-SerieA.calendarManagement.printCombinations()
+SerieA = Tournament_Management.Tournament()
+#SerieA.calendarManagement.printCombinations()
+SerieA.calendarManagement.printCalendar()
 print("")
 gameDay = 0
 SerieA.print_Calendar(gameDay)
