@@ -3,25 +3,25 @@ Created on 13 apr 2017
 
 @author: bossima1
 '''
-from PlayerClasses import Player_Management
+import Player_Management
 
 
 class Team:
     counterTeams = 0
     def __init__(self):
         #self.players = Team.set_FirstTeam()
-        self.players = Team.create_valid_Team()
+        self.players = self.create_valid_Team()
         Team.counterTeams += 1
         self.counterPlayers = len(self.players)
         self.TeamName = "Team"+str(Team.counterTeams)
 
-    def set_FirstTeam():
+    def set_FirstTeam(self):
         first_team = []
         for i in range(11):
             first_team.append(Player_Management.Player())
         return first_team
 
-    def create_valid_Team():
+    def create_valid_Team(self):
         #set dictionary to check
         valid_formation = dict([('GK',1),('DC',2),('DL',1),('DR',1),('CM',2),('LM',1),('RM',1),('ST',2)])
         current_formation = dict([('GK',0),('DC',0),('DL',0),('DR',0),('CM',0),('LM',0),('RM',0),('ST',0)])

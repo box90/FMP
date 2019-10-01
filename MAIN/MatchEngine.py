@@ -3,19 +3,18 @@ Created on 13 apr 2017
 
 @author: bossima1
 '''
-from TeamsClasses import Team_Management
+import Team_Management
 import random
 
 
 
-class matchEngine:
+class MatchEngine:
     def __init__(self,Team1,Team2):
         self.teamHome = Team1
         self.teamAway = Team2
         self.score = [0,0]
 
-    
-    def FreeKickManagement(teamAttack,teamDefend):
+    def FreeKickManagement(self,teamAttack,teamDefend):
         stricker = teamAttack.getPlayer("ST")
         goalKeeper = teamDefend.getPlayer("GK")
         
@@ -31,8 +30,7 @@ class matchEngine:
             return 1
         
         
-   
-    def get_sideAttack(position):
+    def get_sideAttack(self,position):
         if("D" in position):
             return random.choice(["DL","DC","DR"])
         elif("M" in position):
@@ -40,7 +38,7 @@ class matchEngine:
         elif("S" in position):
             return "ST"
         
-    def get_possibleExecution(position):
+    def get_possibleExecution(self,position):
         if(position == "DL"):
             return random.choice(["LM","CM"])
         if(position == "DC"):
@@ -57,7 +55,7 @@ class matchEngine:
             return "GK"
         
     
-    def get_defenderPlayers(teamDefend,attPos,possiblePos):
+    def get_defenderPlayers(self,teamDefend,attPos,possiblePos):
         defenders = []
         if(possiblePos == "LM"):
             defenders.append(teamDefend.getPlayer("RM"))
@@ -78,9 +76,9 @@ class matchEngine:
         return defenders    
     
     
-    def calculate_possibleExecution(teamAttack,teamDefend,nowPos,possiblePos):
+    def calculate_possibleExecution(self,teamAttack,teamDefend,nowPos,possiblePos):
         playerAttack = teamAttack.getPlayer(nowPos)
-        playersDefend = matchEngine.get_defenderPlayers(teamDefend,nowPos,possiblePos)
+        playersDefend = MatchEngine.get_defenderPlayers(self,teamDefend,nowPos,possiblePos)
         
         #calculate possibilities       
         if(("D" in nowPos) or ("M" in nowPos)):
@@ -107,41 +105,41 @@ class matchEngine:
             return -1
 
         
-    def AttackManagement(teamAttack,teamDefend,position):
-        side = matchEngine.get_sideAttack(position)
-        possible_exec = matchEngine.get_possibleExecution(side)
-        result_exec = matchEngine.calculate_possibleExecution(teamAttack, teamDefend,side,possible_exec)
+    def AttackManagement(self,teamAttack,teamDefend,position):
+        side = MatchEngine.get_sideAttack(self,position)
+        possible_exec = MatchEngine.get_possibleExecution(self,side)
+        result_exec = MatchEngine.calculate_possibleExecution(self,teamAttack, teamDefend,side,possible_exec)
           
         if(result_exec < 0):
             return -1
         elif(result_exec == 0):
             return 0
         elif(result_exec == 1):
-            return matchEngine.AttackManagement(teamAttack, teamDefend,possible_exec)
+            return MatchEngine.AttackManagement(self,teamAttack, teamDefend,possible_exec)
         
     
       
        
-    def flowAction_Start(self,type):    # 0 attackHome / 1 attackAway / 2 freeKickHome / 3 freeKickAway
-        if(type > 1):
-            if(type == 2):
-                if(matchEngine.FreeKickManagement(self.teamHome,self.teamAway) == 0):
+    def flowAction_Start(self,type):    # 0<x<4 attackHome / 4<x<8 attackAway / 9 freeKickHome / 10 freeKickAway
+        if(type > 7):
+            if(type == 9):
+                if(MatchEngine.FreeKickManagement(self,self.teamHome,self.teamAway) == 0):
                     self.score[0] += 1
             else:
-                if(matchEngine.FreeKickManagement(self.teamAway,self.teamHome) == 0):
+                if(MatchEngine.FreeKickManagement(self,self.teamAway,self.teamHome) == 0):
                     self.score[1] += 1   
         else:
-            if(type == 0):
-                if(matchEngine.AttackManagement(self.teamHome,self.teamAway,random.choice(["D","M","S"])) == 0):
+            if(0 <= type < 4):
+                if(MatchEngine.AttackManagement(self,self.teamHome,self.teamAway,random.choice(["D","M","S"])) == 0):
                     self.score[0] += 1
             else:
-                if(matchEngine.AttackManagement(self.teamAway,self.teamHome,random.choice(["D","M","S"])) == 0):
+                if(MatchEngine.AttackManagement(self,self.teamAway,self.teamHome,random.choice(["D","M","S"])) == 0):
                     self.score[1] += 1  
                 
     
     def game_ActionsManagement(self):
         for i in range(random.randint(3,10)):
-            matchEngine.flowAction_Start(self,random.randint(0,3))
+            MatchEngine.flowAction_Start(self,random.randint(0,9))
         if(self.score[0] > self.score[1]):
             return 1
         elif(self.score[0] < self.score[1]):

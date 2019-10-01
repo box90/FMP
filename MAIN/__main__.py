@@ -3,10 +3,13 @@ Created on 13 apr 2017
 
 @author: bossima1
 '''
-from TournamentClasses import Tournament_Management
-from TeamsClasses import Team_Management
+import Tournament_Management
+import Team_Management
+import MatchEngine
+#from TournamentClasses import Tournament_Management
+#from TeamsClasses import Team_Management
 #from PlayerClasses import Player_Management
-from Matches_Management import MatchEngine
+#from Matches_Management import MatchEngine
 import random
 
 
@@ -20,6 +23,7 @@ print("")
 SerieA.playDay(gameDay)
 SerieA.scoreboard.printScoreboard()
 
+input("\nPremere un tasto per continuare: ")
 #matchesMatrix = [[0 for x in range(20)] for y in range(20)]
 
 #for i in range(0,len(matchesMatrix)):
