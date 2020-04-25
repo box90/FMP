@@ -6,10 +6,6 @@ Created on 13 apr 2017
 import Tournament_Management
 import Team_Management
 import MatchEngine
-#from TournamentClasses import Tournament_Management
-#from TeamsClasses import Team_Management
-#from PlayerClasses import Player_Management
-#from Matches_Management import MatchEngine
 import random
 
 

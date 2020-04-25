@@ -5,6 +5,7 @@ Created on 13 apr 2017
 '''
 import random
 import operator
+import json
 from builtins import str
 
 class InfoManagement:
@@ -199,3 +200,15 @@ class Player:
         print("Role: "+self.role)
         print("##Attributes##")
         self.Values.getALL()
+
+    def placeHolder(self):
+        self.Values = None
+        self.name = None
+        self.surname = None
+        self.age = None
+        self.nationality = None
+        self.role = None
+
+    def toJSON(self):
+        return json.dumps(self, default=lambda o: o.__dict__, 
+            sort_keys=True, indent=4)
