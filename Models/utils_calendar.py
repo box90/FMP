@@ -15,7 +15,9 @@ def make_day(tournamentTeams: dict, day):
 def make_schedule(tournamentTeams : dict):
     # number of teams must be even!
     # build first round-robin
+    # ,0 rapresent result of the match 
     schedule = [make_day(tournamentTeams, day) for day in range(len(tournamentTeams) - 1)]
     # generate second round-robin by swapping home,away teams
-    swapped = [[(away, home) for home, away in day] for day in schedule]
-    return schedule + swapped
+    scheduleWithResult = [[((home, away),0) for home, away in day] for day in schedule]
+    swapped = [[((away, home),0) for home, away in day] for day in schedule]
+    return scheduleWithResult + swapped

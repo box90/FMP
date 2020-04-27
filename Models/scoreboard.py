@@ -28,6 +28,6 @@ class Ranking:
         elif result == 0:
             self.setDraw(team1)
             self.setDraw(team2)
-            else:
-                self.setLoss(team1)
-                self.setWin(team2)
+        else:
+            self.setLoss(team1)
+            self.setWin(team2)
