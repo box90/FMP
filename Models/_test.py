@@ -6,8 +6,11 @@ import player
 import json
 from utils_player import player_to_dict
 from utils_player import dict_to_player
+from utils_tournament import tournament_to_dict
+from utils_tournament import dict_to_tournament
 import team
 import tournament
+import pprint
 
 tour = tournament.Tournament("SerieA",10)
 tour.inizializeTeams([  "Team1",
@@ -22,7 +25,10 @@ tour.inizializeTeams([  "Team1",
                         "Team10"])
 
 tour.createCalendar()
-tour.printCalendar()
+data = json.dumps(tour,default=tournament_to_dict, sort_keys=True)
+with open('Tournament.json', 'w') as outfile:
+    outfile.write(data)
+#pprint.pprint(data)
 
 #TeamTest
 #t = team.Team()

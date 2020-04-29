@@ -1,0 +1,2537 @@
+{
+	"Tournament": [{
+		"Calendar": [
+			[
+				[
+					["Team1", "Team10"], 0
+				],
+				[
+					["Team2", "Team9"], 0
+				],
+				[
+					["Team3", "Team8"], 0
+				],
+				[
+					["Team4", "Team7"], 0
+				],
+				[
+					["Team5", "Team6"], 0
+				]
+			],
+			[
+				[
+					["Team1", "Team9"], 0
+				],
+				[
+					["Team10", "Team8"], 0
+				],
+				[
+					["Team2", "Team7"], 0
+				],
+				[
+					["Team3", "Team6"], 0
+				],
+				[
+					["Team4", "Team5"], 0
+				]
+			],
+			[
+				[
+					["Team1", "Team8"], 0
+				],
+				[
+					["Team9", "Team7"], 0
+				],
+				[
+					["Team10", "Team6"], 0
+				],
+				[
+					["Team2", "Team5"], 0
+				],
+				[
+					["Team3", "Team4"], 0
+				]
+			],
+			[
+				[
+					["Team1", "Team7"], 0
+				],
+				[
+					["Team8", "Team6"], 0
+				],
+				[
+					["Team9", "Team5"], 0
+				],
+				[
+					["Team10", "Team4"], 0
+				],
+				[
+					["Team2", "Team3"], 0
+				]
+			],
+			[
+				[
+					["Team1", "Team6"], 0
+				],
+				[
+					["Team7", "Team5"], 0
+				],
+				[
+					["Team8", "Team4"], 0
+				],
+				[
+					["Team9", "Team3"], 0
+				],
+				[
+					["Team10", "Team2"], 0
+				]
+			],
+			[
+				[
+					["Team1", "Team5"], 0
+				],
+				[
+					["Team6", "Team4"], 0
+				],
+				[
+					["Team7", "Team3"], 0
+				],
+				[
+					["Team8", "Team2"], 0
+				],
+				[
+					["Team9", "Team10"], 0
+				]
+			],
+			[
+				[
+					["Team1", "Team4"], 0
+				],
+				[
+					["Team5", "Team3"], 0
+				],
+				[
+					["Team6", "Team2"], 0
+				],
+				[
+					["Team7", "Team10"], 0
+				],
+				[
+					["Team8", "Team9"], 0
+				]
+			],
+			[
+				[
+					["Team1", "Team3"], 0
+				],
+				[
+					["Team4", "Team2"], 0
+				],
+				[
+					["Team5", "Team10"], 0
+				],
+				[
+					["Team6", "Team9"], 0
+				],
+				[
+					["Team7", "Team8"], 0
+				]
+			],
+			[
+				[
+					["Team1", "Team2"], 0
+				],
+				[
+					["Team3", "Team10"], 0
+				],
+				[
+					["Team4", "Team9"], 0
+				],
+				[
+					["Team5", "Team8"], 0
+				],
+				[
+					["Team6", "Team7"], 0
+				]
+			],
+			[
+				[
+					["Team10", "Team1"], 0
+				],
+				[
+					["Team9", "Team2"], 0
+				],
+				[
+					["Team8", "Team3"], 0
+				],
+				[
+					["Team7", "Team4"], 0
+				],
+				[
+					["Team6", "Team5"], 0
+				]
+			],
+			[
+				[
+					["Team9", "Team1"], 0
+				],
+				[
+					["Team8", "Team10"], 0
+				],
+				[
+					["Team7", "Team2"], 0
+				],
+				[
+					["Team6", "Team3"], 0
+				],
+				[
+					["Team5", "Team4"], 0
+				]
+			],
+			[
+				[
+					["Team8", "Team1"], 0
+				],
+				[
+					["Team7", "Team9"], 0
+				],
+				[
+					["Team6", "Team10"], 0
+				],
+				[
+					["Team5", "Team2"], 0
+				],
+				[
+					["Team4", "Team3"], 0
+				]
+			],
+			[
+				[
+					["Team7", "Team1"], 0
+				],
+				[
+					["Team6", "Team8"], 0
+				],
+				[
+					["Team5", "Team9"], 0
+				],
+				[
+					["Team4", "Team10"], 0
+				],
+				[
+					["Team3", "Team2"], 0
+				]
+			],
+			[
+				[
+					["Team6", "Team1"], 0
+				],
+				[
+					["Team5", "Team7"], 0
+				],
+				[
+					["Team4", "Team8"], 0
+				],
+				[
+					["Team3", "Team9"], 0
+				],
+				[
+					["Team2", "Team10"], 0
+				]
+			],
+			[
+				[
+					["Team5", "Team1"], 0
+				],
+				[
+					["Team4", "Team6"], 0
+				],
+				[
+					["Team3", "Team7"], 0
+				],
+				[
+					["Team2", "Team8"], 0
+				],
+				[
+					["Team10", "Team9"], 0
+				]
+			],
+			[
+				[
+					["Team4", "Team1"], 0
+				],
+				[
+					["Team3", "Team5"], 0
+				],
+				[
+					["Team2", "Team6"], 0
+				],
+				[
+					["Team10", "Team7"], 0
+				],
+				[
+					["Team9", "Team8"], 0
+				]
+			],
+			[
+				[
+					["Team3", "Team1"], 0
+				],
+				[
+					["Team2", "Team4"], 0
+				],
+				[
+					["Team10", "Team5"], 0
+				],
+				[
+					["Team9", "Team6"], 0
+				],
+				[
+					["Team8", "Team7"], 0
+				]
+			],
+			[
+				[
+					["Team2", "Team1"], 0
+				],
+				[
+					["Team10", "Team3"], 0
+				],
+				[
+					["Team9", "Team4"], 0
+				],
+				[
+					["Team8", "Team5"], 0
+				],
+				[
+					["Team7", "Team6"], 0
+				]
+			]
+		],
+		"myTeams": {
+			"Team1": {
+				"myPlayers": {
+					"CM": [{
+						"Values": {
+							"Aerial ability": 15,
+							"Dribling": 2,
+							"Finishing": 5,
+							"Free Kick": 5,
+							"Mental": 10,
+							"Pass": 14,
+							"Shoot": 15,
+							"Speed": 8,
+							"Stamina": 2,
+							"Tackle": 10
+						},
+						"birthDate": "24/10/2000",
+						"name": "Luiz Miguel",
+						"nationality": "pt_BR",
+						"role": "CM",
+						"surname": "Lima",
+						"teamID": "Team1"
+					}, {
+						"Values": {
+							"Aerial ability": 10,
+							"Dribling": 4,
+							"Finishing": 4,
+							"Free Kick": 8,
+							"Mental": 7,
+							"Pass": 10,
+							"Shoot": 13,
+							"Speed": 1,
+							"Stamina": 9,
+							"Tackle": 12
+						},
+						"birthDate": "02/08/1991",
+						"name": "Lauren\u021biu",
+						"nationality": "ro_RO",
+						"role": "CM",
+						"surname": "Nistor",
+						"teamID": "Team1"
+					}],
+					"DC": [{
+						"Values": {
+							"Aerial ability": 12,
+							"Dribling": 8,
+							"Finishing": 8,
+							"Free Kick": 7,
+							"Mental": 15,
+							"Pass": 9,
+							"Shoot": 6,
+							"Speed": 4,
+							"Stamina": 8,
+							"Tackle": 14
+						},
+						"birthDate": "26/04/2007",
+						"name": "Alexander",
+						"nationality": "et_EE",
+						"role": "DC",
+						"surname": "Liblik",
+						"teamID": "Team1"
+					}, {
+						"Values": {
+							"Aerial ability": 10,
+							"Dribling": 8,
+							"Finishing": 10,
+							"Free Kick": 4,
+							"Mental": 14,
+							"Pass": 9,
+							"Shoot": 4,
+							"Speed": 6,
+							"Stamina": 6,
+							"Tackle": 14
+						},
+						"birthDate": "13/01/2008",
+						"name": "Sean",
+						"nationality": "en_IN",
+						"role": "DC",
+						"surname": "Maldonado",
+						"teamID": "Team1"
+					}],
+					"DL": [{
+						"Values": {
+							"Aerial ability": 5,
+							"Dribling": 1,
+							"Finishing": 10,
+							"Free Kick": 5,
+							"Mental": 13,
+							"Pass": 3,
+							"Shoot": 9,
+							"Speed": 15,
+							"Stamina": 9,
+							"Tackle": 15
+						},
+						"birthDate": "20/01/1993",
+						"name": "Lubo\u0161",
+						"nationality": "cs_CZ",
+						"role": "DL",
+						"surname": "Fiala",
+						"teamID": "Team1"
+					}],
+					"DR": [{
+						"Values": {
+							"Aerial ability": 8,
+							"Dribling": 8,
+							"Finishing": 1,
+							"Free Kick": 3,
+							"Mental": 9,
+							"Pass": 2,
+							"Shoot": 10,
+							"Speed": 15,
+							"Stamina": 12,
+							"Tackle": 15
+						},
+						"birthDate": "15/06/2010",
+						"name": "John",
+						"nationality": "en_US",
+						"role": "DR",
+						"surname": "Howe",
+						"teamID": "Team1"
+					}],
+					"GK": [{
+						"Values": {
+							"Aerial ability": 13,
+							"Dribling": 5,
+							"Finishing": 8,
+							"Free Kick": 10,
+							"Mental": 8,
+							"Pass": 4,
+							"Shoot": 10,
+							"Speed": 12,
+							"Stamina": 7,
+							"Tackle": 7
+						},
+						"birthDate": "05/08/2002",
+						"name": "Victor",
+						"nationality": "en_AU",
+						"role": "GK",
+						"surname": "Molina",
+						"teamID": "Team1"
+					}],
+					"LM": [{
+						"Values": {
+							"Aerial ability": 10,
+							"Dribling": 10,
+							"Finishing": 7,
+							"Free Kick": 3,
+							"Mental": 1,
+							"Pass": 15,
+							"Shoot": 13,
+							"Speed": 9,
+							"Stamina": 12,
+							"Tackle": 1
+						},
+						"birthDate": "16/02/1992",
+						"name": "Tapio",
+						"nationality": "fi_FI",
+						"role": "LM",
+						"surname": "Aalto",
+						"teamID": "Team1"
+					}],
+					"RM": [{
+						"Values": {
+							"Aerial ability": 4,
+							"Dribling": 13,
+							"Finishing": 4,
+							"Free Kick": 2,
+							"Mental": 9,
+							"Pass": 15,
+							"Shoot": 10,
+							"Speed": 11,
+							"Stamina": 15,
+							"Tackle": 2
+						},
+						"birthDate": "09/12/1981",
+						"name": "Efe",
+						"nationality": "tr_TR",
+						"role": "RM",
+						"surname": "Bilir",
+						"teamID": "Team1"
+					}],
+					"ST": [{
+						"Values": {
+							"Aerial ability": 14,
+							"Dribling": 10,
+							"Finishing": 11,
+							"Free Kick": 11,
+							"Mental": 10,
+							"Pass": 2,
+							"Shoot": 12,
+							"Speed": 6,
+							"Stamina": 6,
+							"Tackle": 8
+						},
+						"birthDate": "04/03/2013",
+						"name": "Santino",
+						"nationality": "it_IT",
+						"role": "ST",
+						"surname": "Corbo",
+						"teamID": "Team1"
+					}, {
+						"Values": {
+							"Aerial ability": 14,
+							"Dribling": 13,
+							"Finishing": 15,
+							"Free Kick": 15,
+							"Mental": 4,
+							"Pass": 8,
+							"Shoot": 13,
+							"Speed": 10,
+							"Stamina": 5,
+							"Tackle": 5
+						},
+						"birthDate": "19/12/2005",
+						"name": "Esben",
+						"nationality": "dk_DK",
+						"role": "ST",
+						"surname": "J\u00f8rgensen",
+						"teamID": "Team1"
+					}]
+				},
+				"name": "Team1"
+			},
+			"Team10": {
+				"myPlayers": {
+					"CM": [{
+						"Values": {
+							"Aerial ability": 9,
+							"Dribling": 8,
+							"Finishing": 1,
+							"Free Kick": 9,
+							"Mental": 10,
+							"Pass": 15,
+							"Shoot": 15,
+							"Speed": 1,
+							"Stamina": 10,
+							"Tackle": 11
+						},
+						"birthDate": "08/10/2019",
+						"name": "Felix",
+						"nationality": "es_ES",
+						"role": "CM",
+						"surname": "Villena",
+						"teamID": "Team10"
+					}, {
+						"Values": {
+							"Aerial ability": 9,
+							"Dribling": 7,
+							"Finishing": 10,
+							"Free Kick": 4,
+							"Mental": 6,
+							"Pass": 12,
+							"Shoot": 14,
+							"Speed": 3,
+							"Stamina": 8,
+							"Tackle": 15
+						},
+						"birthDate": "23/03/1988",
+						"name": "Ivo",
+						"nationality": "de_DE",
+						"role": "CM",
+						"surname": "Wernecke",
+						"teamID": "Team10"
+					}],
+					"DC": [{
+						"Values": {
+							"Aerial ability": 11,
+							"Dribling": 3,
+							"Finishing": 3,
+							"Free Kick": 4,
+							"Mental": 10,
+							"Pass": 6,
+							"Shoot": 2,
+							"Speed": 3,
+							"Stamina": 7,
+							"Tackle": 13
+						},
+						"birthDate": "21/12/2005",
+						"name": "Christer",
+						"nationality": "sv_SE",
+						"role": "DC",
+						"surname": "Petersson",
+						"teamID": "Team10"
+					}, {
+						"Values": {
+							"Aerial ability": 10,
+							"Dribling": 10,
+							"Finishing": 3,
+							"Free Kick": 8,
+							"Mental": 13,
+							"Pass": 4,
+							"Shoot": 3,
+							"Speed": 4,
+							"Stamina": 5,
+							"Tackle": 14
+						},
+						"birthDate": "08/01/2013",
+						"name": "Milo",
+						"nationality": "it_IT",
+						"role": "DC",
+						"surname": "Pedersoli",
+						"teamID": "Team10"
+					}],
+					"DL": [{
+						"Values": {
+							"Aerial ability": 10,
+							"Dribling": 2,
+							"Finishing": 8,
+							"Free Kick": 7,
+							"Mental": 13,
+							"Pass": 6,
+							"Shoot": 1,
+							"Speed": 11,
+							"Stamina": 13,
+							"Tackle": 10
+						},
+						"birthDate": "09/11/1987",
+						"name": "Kry\u0161tof",
+						"nationality": "cs_CZ",
+						"role": "DL",
+						"surname": "Nov\u00e1k",
+						"teamID": "Team10"
+					}],
+					"DR": [{
+						"Values": {
+							"Aerial ability": 5,
+							"Dribling": 7,
+							"Finishing": 6,
+							"Free Kick": 3,
+							"Mental": 11,
+							"Pass": 9,
+							"Shoot": 3,
+							"Speed": 9,
+							"Stamina": 12,
+							"Tackle": 9
+						},
+						"birthDate": "14/08/2017",
+						"name": "Sabatino",
+						"nationality": "it_IT",
+						"role": "DR",
+						"surname": "Majewski",
+						"teamID": "Team10"
+					}],
+					"GK": [{
+						"Values": {
+							"Aerial ability": 12,
+							"Dribling": 5,
+							"Finishing": 10,
+							"Free Kick": 9,
+							"Mental": 4,
+							"Pass": 1,
+							"Shoot": 6,
+							"Speed": 11,
+							"Stamina": 7,
+							"Tackle": 7
+						},
+						"birthDate": "08/10/2012",
+						"name": "\u0420\u043e\u0441\u0442\u0438\u0441\u043b\u0430\u0432",
+						"nationality": "ru_RU",
+						"role": "GK",
+						"surname": "\u0422\u0438\u043c\u043e\u0444\u0435\u0435\u0432",
+						"teamID": "Team10"
+					}],
+					"LM": [{
+						"Values": {
+							"Aerial ability": 2,
+							"Dribling": 11,
+							"Finishing": 3,
+							"Free Kick": 9,
+							"Mental": 2,
+							"Pass": 12,
+							"Shoot": 12,
+							"Speed": 12,
+							"Stamina": 9,
+							"Tackle": 1
+						},
+						"birthDate": "10/01/2017",
+						"name": "Henri",
+						"nationality": "fr_FR",
+						"role": "LM",
+						"surname": "Bourgeois",
+						"teamID": "Team10"
+					}],
+					"RM": [{
+						"Values": {
+							"Aerial ability": 10,
+							"Dribling": 15,
+							"Finishing": 3,
+							"Free Kick": 2,
+							"Mental": 1,
+							"Pass": 14,
+							"Shoot": 15,
+							"Speed": 12,
+							"Stamina": 15,
+							"Tackle": 5
+						},
+						"birthDate": "09/06/1990",
+						"name": "Scott",
+						"nationality": "bs_BA",
+						"role": "RM",
+						"surname": "Smith",
+						"teamID": "Team10"
+					}],
+					"ST": [{
+						"Values": {
+							"Aerial ability": 13,
+							"Dribling": 14,
+							"Finishing": 11,
+							"Free Kick": 10,
+							"Mental": 8,
+							"Pass": 5,
+							"Shoot": 12,
+							"Speed": 3,
+							"Stamina": 10,
+							"Tackle": 1
+						},
+						"birthDate": "08/11/2008",
+						"name": "Veli",
+						"nationality": "fi_FI",
+						"role": "ST",
+						"surname": "Mattila",
+						"teamID": "Team10"
+					}, {
+						"Values": {
+							"Aerial ability": 14,
+							"Dribling": 10,
+							"Finishing": 9,
+							"Free Kick": 13,
+							"Mental": 2,
+							"Pass": 2,
+							"Shoot": 10,
+							"Speed": 10,
+							"Stamina": 5,
+							"Tackle": 5
+						},
+						"birthDate": "14/01/2009",
+						"name": "Hugues",
+						"nationality": "fr_FR",
+						"role": "ST",
+						"surname": "Laine",
+						"teamID": "Team10"
+					}]
+				},
+				"name": "Team10"
+			},
+			"Team2": {
+				"myPlayers": {
+					"CM": [{
+						"Values": {
+							"Aerial ability": 10,
+							"Dribling": 3,
+							"Finishing": 5,
+							"Free Kick": 8,
+							"Mental": 9,
+							"Pass": 13,
+							"Shoot": 14,
+							"Speed": 4,
+							"Stamina": 3,
+							"Tackle": 15
+						},
+						"birthDate": "28/04/2012",
+						"name": "Olavi",
+						"nationality": "fi_FI",
+						"role": "CM",
+						"surname": "Halme",
+						"teamID": "Team2"
+					}, {
+						"Values": {
+							"Aerial ability": 14,
+							"Dribling": 3,
+							"Finishing": 8,
+							"Free Kick": 5,
+							"Mental": 1,
+							"Pass": 14,
+							"Shoot": 14,
+							"Speed": 3,
+							"Stamina": 5,
+							"Tackle": 13
+						},
+						"birthDate": "03/12/1982",
+						"name": "Vaida",
+						"nationality": "lt_LT",
+						"role": "CM",
+						"surname": "Kalvaitis",
+						"teamID": "Team2"
+					}],
+					"DC": [{
+						"Values": {
+							"Aerial ability": 9,
+							"Dribling": 1,
+							"Finishing": 10,
+							"Free Kick": 9,
+							"Mental": 9,
+							"Pass": 2,
+							"Shoot": 5,
+							"Speed": 7,
+							"Stamina": 9,
+							"Tackle": 14
+						},
+						"birthDate": "16/07/2009",
+						"name": "\u0417\u043b\u0430\u0442\u0438\u043b",
+						"nationality": "bg_BG",
+						"role": "DC",
+						"surname": "\u0422\u044a\u043f\u0447\u0438\u043b\u0435\u0449\u043e\u0432",
+						"teamID": "Team2"
+					}, {
+						"Values": {
+							"Aerial ability": 15,
+							"Dribling": 1,
+							"Finishing": 3,
+							"Free Kick": 10,
+							"Mental": 14,
+							"Pass": 8,
+							"Shoot": 10,
+							"Speed": 7,
+							"Stamina": 9,
+							"Tackle": 12
+						},
+						"birthDate": "13/06/2014",
+						"name": "Randy",
+						"nationality": "en_US",
+						"role": "DC",
+						"surname": "Cook",
+						"teamID": "Team2"
+					}],
+					"DL": [{
+						"Values": {
+							"Aerial ability": 9,
+							"Dribling": 1,
+							"Finishing": 1,
+							"Free Kick": 7,
+							"Mental": 15,
+							"Pass": 7,
+							"Shoot": 1,
+							"Speed": 15,
+							"Stamina": 10,
+							"Tackle": 15
+						},
+						"birthDate": "31/10/1994",
+						"name": "Michael",
+						"nationality": "bs_BA",
+						"role": "DL",
+						"surname": "Howard",
+						"teamID": "Team2"
+					}],
+					"DR": [{
+						"Values": {
+							"Aerial ability": 2,
+							"Dribling": 1,
+							"Finishing": 6,
+							"Free Kick": 3,
+							"Mental": 10,
+							"Pass": 6,
+							"Shoot": 2,
+							"Speed": 15,
+							"Stamina": 14,
+							"Tackle": 12
+						},
+						"birthDate": "27/03/2012",
+						"name": "Aurel",
+						"nationality": "ro_RO",
+						"role": "DR",
+						"surname": "Marin",
+						"teamID": "Team2"
+					}],
+					"GK": [{
+						"Values": {
+							"Aerial ability": 14,
+							"Dribling": 9,
+							"Finishing": 2,
+							"Free Kick": 5,
+							"Mental": 7,
+							"Pass": 10,
+							"Shoot": 9,
+							"Speed": 12,
+							"Stamina": 9,
+							"Tackle": 7
+						},
+						"birthDate": "06/07/1998",
+						"name": "Malthe",
+						"nationality": "dk_DK",
+						"role": "GK",
+						"surname": "Larsen",
+						"teamID": "Team2"
+					}],
+					"LM": [{
+						"Values": {
+							"Aerial ability": 5,
+							"Dribling": 10,
+							"Finishing": 7,
+							"Free Kick": 2,
+							"Mental": 3,
+							"Pass": 12,
+							"Shoot": 15,
+							"Speed": 9,
+							"Stamina": 10,
+							"Tackle": 2
+						},
+						"birthDate": "05/09/2002",
+						"name": "Brayden",
+						"nationality": "en_NZ",
+						"role": "LM",
+						"surname": "Clarke",
+						"teamID": "Team2"
+					}],
+					"RM": [{
+						"Values": {
+							"Aerial ability": 8,
+							"Dribling": 14,
+							"Finishing": 2,
+							"Free Kick": 10,
+							"Mental": 7,
+							"Pass": 15,
+							"Shoot": 15,
+							"Speed": 14,
+							"Stamina": 15,
+							"Tackle": 9
+						},
+						"birthDate": "06/01/1989",
+						"name": "Mariusz",
+						"nationality": "pl_PL",
+						"role": "RM",
+						"surname": "Staro\u015bciak",
+						"teamID": "Team2"
+					}],
+					"ST": [{
+						"Values": {
+							"Aerial ability": 11,
+							"Dribling": 12,
+							"Finishing": 15,
+							"Free Kick": 9,
+							"Mental": 3,
+							"Pass": 8,
+							"Shoot": 11,
+							"Speed": 6,
+							"Stamina": 1,
+							"Tackle": 8
+						},
+						"birthDate": "31/12/1997",
+						"name": "Pero",
+						"nationality": "hr_HR",
+						"role": "ST",
+						"surname": "Piljek",
+						"teamID": "Team2"
+					}, {
+						"Values": {
+							"Aerial ability": 12,
+							"Dribling": 9,
+							"Finishing": 14,
+							"Free Kick": 12,
+							"Mental": 6,
+							"Pass": 7,
+							"Shoot": 9,
+							"Speed": 3,
+							"Stamina": 5,
+							"Tackle": 8
+						},
+						"birthDate": "07/03/1987",
+						"name": "\u0415\u0432\u0441\u0442\u0438\u0433\u043d\u0435\u0439",
+						"nationality": "ru_RU",
+						"role": "ST",
+						"surname": "\u041f\u0430\u0445\u043e\u043c\u043e\u0432",
+						"teamID": "Team2"
+					}]
+				},
+				"name": "Team2"
+			},
+			"Team3": {
+				"myPlayers": {
+					"CM": [{
+						"Values": {
+							"Aerial ability": 15,
+							"Dribling": 7,
+							"Finishing": 9,
+							"Free Kick": 8,
+							"Mental": 4,
+							"Pass": 14,
+							"Shoot": 10,
+							"Speed": 4,
+							"Stamina": 9,
+							"Tackle": 12
+						},
+						"birthDate": "29/07/1985",
+						"name": "Elias",
+						"nationality": "de_DE",
+						"role": "CM",
+						"surname": "Gorlitz",
+						"teamID": "Team3"
+					}, {
+						"Values": {
+							"Aerial ability": 13,
+							"Dribling": 3,
+							"Finishing": 3,
+							"Free Kick": 10,
+							"Mental": 2,
+							"Pass": 13,
+							"Shoot": 14,
+							"Speed": 6,
+							"Stamina": 3,
+							"Tackle": 11
+						},
+						"birthDate": "07/07/1988",
+						"name": "Colin",
+						"nationality": "en_GB",
+						"role": "CM",
+						"surname": "Smith",
+						"teamID": "Team3"
+					}],
+					"DC": [{
+						"Values": {
+							"Aerial ability": 10,
+							"Dribling": 3,
+							"Finishing": 8,
+							"Free Kick": 3,
+							"Mental": 9,
+							"Pass": 2,
+							"Shoot": 5,
+							"Speed": 7,
+							"Stamina": 7,
+							"Tackle": 12
+						},
+						"birthDate": "01/08/2016",
+						"name": "\u0392\u03b1\u03c1\u03b4\u03ae\u03c2",
+						"nationality": "el_GR",
+						"role": "DC",
+						"surname": "\u039a\u03b1\u03c1\u03b1\u03ba\u03c5\u03c1\u03af\u03bf\u03c5",
+						"teamID": "Team3"
+					}, {
+						"Values": {
+							"Aerial ability": 15,
+							"Dribling": 4,
+							"Finishing": 4,
+							"Free Kick": 9,
+							"Mental": 11,
+							"Pass": 7,
+							"Shoot": 4,
+							"Speed": 6,
+							"Stamina": 2,
+							"Tackle": 11
+						},
+						"birthDate": "05/02/1988",
+						"name": "Ant\u00f4nio",
+						"nationality": "pt_BR",
+						"role": "DC",
+						"surname": "da Costa",
+						"teamID": "Team3"
+					}],
+					"DL": [{
+						"Values": {
+							"Aerial ability": 7,
+							"Dribling": 4,
+							"Finishing": 6,
+							"Free Kick": 5,
+							"Mental": 15,
+							"Pass": 10,
+							"Shoot": 6,
+							"Speed": 12,
+							"Stamina": 14,
+							"Tackle": 10
+						},
+						"birthDate": "14/10/2015",
+						"name": "Jonathon",
+						"nationality": "bs_BA",
+						"role": "DL",
+						"surname": "Walters",
+						"teamID": "Team3"
+					}],
+					"DR": [{
+						"Values": {
+							"Aerial ability": 9,
+							"Dribling": 5,
+							"Finishing": 10,
+							"Free Kick": 9,
+							"Mental": 13,
+							"Pass": 5,
+							"Shoot": 8,
+							"Speed": 11,
+							"Stamina": 10,
+							"Tackle": 14
+						},
+						"birthDate": "17/05/2017",
+						"name": "Dolores",
+						"nationality": "es_MX",
+						"role": "DR",
+						"surname": "Segura",
+						"teamID": "Team3"
+					}],
+					"GK": [{
+						"Values": {
+							"Aerial ability": 9,
+							"Dribling": 10,
+							"Finishing": 3,
+							"Free Kick": 3,
+							"Mental": 2,
+							"Pass": 10,
+							"Shoot": 10,
+							"Speed": 10,
+							"Stamina": 10,
+							"Tackle": 8
+						},
+						"birthDate": "14/08/1994",
+						"name": "Peter",
+						"nationality": "cs_CZ",
+						"role": "GK",
+						"surname": "Svoboda",
+						"teamID": "Team3"
+					}],
+					"LM": [{
+						"Values": {
+							"Aerial ability": 4,
+							"Dribling": 11,
+							"Finishing": 1,
+							"Free Kick": 3,
+							"Mental": 3,
+							"Pass": 15,
+							"Shoot": 14,
+							"Speed": 14,
+							"Stamina": 11,
+							"Tackle": 2
+						},
+						"birthDate": "30/07/2018",
+						"name": "Louis",
+						"nationality": "fr_FR",
+						"role": "LM",
+						"surname": "Gay",
+						"teamID": "Team3"
+					}],
+					"RM": [{
+						"Values": {
+							"Aerial ability": 9,
+							"Dribling": 14,
+							"Finishing": 8,
+							"Free Kick": 1,
+							"Mental": 5,
+							"Pass": 15,
+							"Shoot": 11,
+							"Speed": 12,
+							"Stamina": 12,
+							"Tackle": 5
+						},
+						"birthDate": "30/11/2019",
+						"name": "Vincent",
+						"nationality": "en_GB",
+						"role": "RM",
+						"surname": "McDonald",
+						"teamID": "Team3"
+					}],
+					"ST": [{
+						"Values": {
+							"Aerial ability": 13,
+							"Dribling": 14,
+							"Finishing": 15,
+							"Free Kick": 15,
+							"Mental": 3,
+							"Pass": 10,
+							"Shoot": 14,
+							"Speed": 3,
+							"Stamina": 8,
+							"Tackle": 6
+						},
+						"birthDate": "02/10/1994",
+						"name": "Eduarda",
+						"nationality": "pt_PT",
+						"role": "ST",
+						"surname": "Amorim",
+						"teamID": "Team3"
+					}, {
+						"Values": {
+							"Aerial ability": 13,
+							"Dribling": 13,
+							"Finishing": 9,
+							"Free Kick": 9,
+							"Mental": 7,
+							"Pass": 10,
+							"Shoot": 15,
+							"Speed": 5,
+							"Stamina": 2,
+							"Tackle": 10
+						},
+						"birthDate": "16/05/1988",
+						"name": "Juhani",
+						"nationality": "fi_FI",
+						"role": "ST",
+						"surname": "Rauhala",
+						"teamID": "Team3"
+					}]
+				},
+				"name": "Team3"
+			},
+			"Team4": {
+				"myPlayers": {
+					"CM": [{
+						"Values": {
+							"Aerial ability": 9,
+							"Dribling": 2,
+							"Finishing": 1,
+							"Free Kick": 5,
+							"Mental": 2,
+							"Pass": 12,
+							"Shoot": 15,
+							"Speed": 2,
+							"Stamina": 5,
+							"Tackle": 13
+						},
+						"birthDate": "19/12/1980",
+						"name": "Uberto",
+						"nationality": "it_IT",
+						"role": "CM",
+						"surname": "Papetti",
+						"teamID": "Team4"
+					}, {
+						"Values": {
+							"Aerial ability": 10,
+							"Dribling": 5,
+							"Finishing": 6,
+							"Free Kick": 9,
+							"Mental": 3,
+							"Pass": 13,
+							"Shoot": 10,
+							"Speed": 3,
+							"Stamina": 2,
+							"Tackle": 14
+						},
+						"birthDate": "16/07/2001",
+						"name": "Peter",
+						"nationality": "sv_SE",
+						"role": "CM",
+						"surname": "H\u00e4gglund",
+						"teamID": "Team4"
+					}],
+					"DC": [{
+						"Values": {
+							"Aerial ability": 15,
+							"Dribling": 1,
+							"Finishing": 10,
+							"Free Kick": 9,
+							"Mental": 13,
+							"Pass": 1,
+							"Shoot": 10,
+							"Speed": 3,
+							"Stamina": 1,
+							"Tackle": 15
+						},
+						"birthDate": "23/09/2001",
+						"name": "Petru",
+						"nationality": "ro_RO",
+						"role": "DC",
+						"surname": "Manole",
+						"teamID": "Team4"
+					}, {
+						"Values": {
+							"Aerial ability": 14,
+							"Dribling": 10,
+							"Finishing": 5,
+							"Free Kick": 2,
+							"Mental": 12,
+							"Pass": 2,
+							"Shoot": 6,
+							"Speed": 4,
+							"Stamina": 7,
+							"Tackle": 9
+						},
+						"birthDate": "09/02/2008",
+						"name": "\u03a0\u03b1\u03bd\u03bf\u03c1\u03bc\u03af\u03c4\u03b7\u03c2",
+						"nationality": "el_GR",
+						"role": "DC",
+						"surname": "\u03a0\u03b1\u03bd\u03c4\u03b6\u03b1\u03c1\u03c4\u03b6\u03af\u03b4\u03b7\u03c2",
+						"teamID": "Team4"
+					}],
+					"DL": [{
+						"Values": {
+							"Aerial ability": 10,
+							"Dribling": 2,
+							"Finishing": 4,
+							"Free Kick": 4,
+							"Mental": 12,
+							"Pass": 8,
+							"Shoot": 9,
+							"Speed": 12,
+							"Stamina": 11,
+							"Tackle": 9
+						},
+						"birthDate": "13/10/2018",
+						"name": "Karl",
+						"nationality": "sv_SE",
+						"role": "DL",
+						"surname": "Johansson",
+						"teamID": "Team4"
+					}],
+					"DR": [{
+						"Values": {
+							"Aerial ability": 2,
+							"Dribling": 9,
+							"Finishing": 3,
+							"Free Kick": 4,
+							"Mental": 12,
+							"Pass": 8,
+							"Shoot": 10,
+							"Speed": 9,
+							"Stamina": 9,
+							"Tackle": 11
+						},
+						"birthDate": "18/09/2005",
+						"name": "Dylan",
+						"nationality": "en_CA",
+						"role": "DR",
+						"surname": "Brown",
+						"teamID": "Team4"
+					}],
+					"GK": [{
+						"Values": {
+							"Aerial ability": 9,
+							"Dribling": 1,
+							"Finishing": 1,
+							"Free Kick": 6,
+							"Mental": 5,
+							"Pass": 6,
+							"Shoot": 6,
+							"Speed": 9,
+							"Stamina": 8,
+							"Tackle": 4
+						},
+						"birthDate": "01/11/1995",
+						"name": "K\u00e1lm\u00e1n",
+						"nationality": "hu_HU",
+						"role": "GK",
+						"surname": "Farag\u00f3",
+						"teamID": "Team4"
+					}],
+					"LM": [{
+						"Values": {
+							"Aerial ability": 1,
+							"Dribling": 13,
+							"Finishing": 1,
+							"Free Kick": 3,
+							"Mental": 6,
+							"Pass": 15,
+							"Shoot": 11,
+							"Speed": 14,
+							"Stamina": 9,
+							"Tackle": 4
+						},
+						"birthDate": "23/12/1991",
+						"name": "Damian",
+						"nationality": "ro_RO",
+						"role": "LM",
+						"surname": "Dumitrescu",
+						"teamID": "Team4"
+					}],
+					"RM": [{
+						"Values": {
+							"Aerial ability": 2,
+							"Dribling": 14,
+							"Finishing": 8,
+							"Free Kick": 10,
+							"Mental": 7,
+							"Pass": 14,
+							"Shoot": 15,
+							"Speed": 14,
+							"Stamina": 15,
+							"Tackle": 10
+						},
+						"birthDate": "20/07/1987",
+						"name": "Artur",
+						"nationality": "et_EE",
+						"role": "RM",
+						"surname": "N\u00f5mme",
+						"teamID": "Team4"
+					}],
+					"ST": [{
+						"Values": {
+							"Aerial ability": 10,
+							"Dribling": 12,
+							"Finishing": 15,
+							"Free Kick": 9,
+							"Mental": 5,
+							"Pass": 10,
+							"Shoot": 11,
+							"Speed": 9,
+							"Stamina": 7,
+							"Tackle": 8
+						},
+						"birthDate": "18/01/2015",
+						"name": "Erik",
+						"nationality": "dk_DK",
+						"role": "ST",
+						"surname": "Nilsson",
+						"teamID": "Team4"
+					}, {
+						"Values": {
+							"Aerial ability": 12,
+							"Dribling": 10,
+							"Finishing": 11,
+							"Free Kick": 9,
+							"Mental": 9,
+							"Pass": 4,
+							"Shoot": 9,
+							"Speed": 5,
+							"Stamina": 3,
+							"Tackle": 5
+						},
+						"birthDate": "23/12/1984",
+						"name": "Sebastian",
+						"nationality": "es_ES",
+						"role": "ST",
+						"surname": "Martin",
+						"teamID": "Team4"
+					}]
+				},
+				"name": "Team4"
+			},
+			"Team5": {
+				"myPlayers": {
+					"CM": [{
+						"Values": {
+							"Aerial ability": 11,
+							"Dribling": 9,
+							"Finishing": 8,
+							"Free Kick": 4,
+							"Mental": 4,
+							"Pass": 14,
+							"Shoot": 13,
+							"Speed": 9,
+							"Stamina": 6,
+							"Tackle": 9
+						},
+						"birthDate": "27/11/1999",
+						"name": "Martino",
+						"nationality": "it_IT",
+						"role": "CM",
+						"surname": "Filangieri",
+						"teamID": "Team5"
+					}, {
+						"Values": {
+							"Aerial ability": 14,
+							"Dribling": 2,
+							"Finishing": 5,
+							"Free Kick": 9,
+							"Mental": 1,
+							"Pass": 12,
+							"Shoot": 15,
+							"Speed": 10,
+							"Stamina": 7,
+							"Tackle": 12
+						},
+						"birthDate": "28/09/1991",
+						"name": "Felix",
+						"nationality": "nl_NL",
+						"role": "CM",
+						"surname": "Zwijsen",
+						"teamID": "Team5"
+					}],
+					"DC": [{
+						"Values": {
+							"Aerial ability": 13,
+							"Dribling": 4,
+							"Finishing": 5,
+							"Free Kick": 7,
+							"Mental": 11,
+							"Pass": 3,
+							"Shoot": 7,
+							"Speed": 6,
+							"Stamina": 5,
+							"Tackle": 15
+						},
+						"birthDate": "08/03/1992",
+						"name": "Olivier",
+						"nationality": "fr_FR",
+						"role": "DC",
+						"surname": "Bouvier",
+						"teamID": "Team5"
+					}, {
+						"Values": {
+							"Aerial ability": 13,
+							"Dribling": 7,
+							"Finishing": 5,
+							"Free Kick": 5,
+							"Mental": 14,
+							"Pass": 5,
+							"Shoot": 3,
+							"Speed": 3,
+							"Stamina": 3,
+							"Tackle": 13
+						},
+						"birthDate": "18/12/1999",
+						"name": "Lance",
+						"nationality": "en_NZ",
+						"role": "DC",
+						"surname": "Kenny",
+						"teamID": "Team5"
+					}],
+					"DL": [{
+						"Values": {
+							"Aerial ability": 6,
+							"Dribling": 7,
+							"Finishing": 10,
+							"Free Kick": 3,
+							"Mental": 15,
+							"Pass": 6,
+							"Shoot": 1,
+							"Speed": 13,
+							"Stamina": 9,
+							"Tackle": 14
+						},
+						"birthDate": "13/05/1998",
+						"name": "Dan",
+						"nationality": "en_AU",
+						"role": "DL",
+						"surname": "Welch",
+						"teamID": "Team5"
+					}],
+					"DR": [{
+						"Values": {
+							"Aerial ability": 4,
+							"Dribling": 1,
+							"Finishing": 6,
+							"Free Kick": 4,
+							"Mental": 13,
+							"Pass": 5,
+							"Shoot": 5,
+							"Speed": 15,
+							"Stamina": 12,
+							"Tackle": 12
+						},
+						"birthDate": "08/02/2002",
+						"name": "Marc",
+						"nationality": "es_ES",
+						"role": "DR",
+						"surname": "\u00c1lvaro",
+						"teamID": "Team5"
+					}],
+					"GK": [{
+						"Values": {
+							"Aerial ability": 9,
+							"Dribling": 6,
+							"Finishing": 2,
+							"Free Kick": 10,
+							"Mental": 10,
+							"Pass": 1,
+							"Shoot": 8,
+							"Speed": 14,
+							"Stamina": 4,
+							"Tackle": 1
+						},
+						"birthDate": "14/11/1983",
+						"name": "Gabriel",
+						"nationality": "es_MX",
+						"role": "GK",
+						"surname": "Granados",
+						"teamID": "Team5"
+					}],
+					"LM": [{
+						"Values": {
+							"Aerial ability": 5,
+							"Dribling": 13,
+							"Finishing": 7,
+							"Free Kick": 2,
+							"Mental": 7,
+							"Pass": 10,
+							"Shoot": 13,
+							"Speed": 14,
+							"Stamina": 11,
+							"Tackle": 8
+						},
+						"birthDate": "11/07/2019",
+						"name": "Marc",
+						"nationality": "es_ES",
+						"role": "LM",
+						"surname": "Torrent",
+						"teamID": "Team5"
+					}],
+					"RM": [{
+						"Values": {
+							"Aerial ability": 5,
+							"Dribling": 11,
+							"Finishing": 9,
+							"Free Kick": 1,
+							"Mental": 5,
+							"Pass": 11,
+							"Shoot": 15,
+							"Speed": 10,
+							"Stamina": 12,
+							"Tackle": 1
+						},
+						"birthDate": "27/10/2017",
+						"name": "Alex",
+						"nationality": "dk_DK",
+						"role": "RM",
+						"surname": "Larsen",
+						"teamID": "Team5"
+					}],
+					"ST": [{
+						"Values": {
+							"Aerial ability": 10,
+							"Dribling": 13,
+							"Finishing": 10,
+							"Free Kick": 12,
+							"Mental": 2,
+							"Pass": 5,
+							"Shoot": 15,
+							"Speed": 10,
+							"Stamina": 9,
+							"Tackle": 5
+						},
+						"birthDate": "24/03/1992",
+						"name": "Christopher",
+						"nationality": "en_CA",
+						"role": "ST",
+						"surname": "Butler",
+						"teamID": "Team5"
+					}, {
+						"Values": {
+							"Aerial ability": 14,
+							"Dribling": 11,
+							"Finishing": 15,
+							"Free Kick": 13,
+							"Mental": 6,
+							"Pass": 2,
+							"Shoot": 9,
+							"Speed": 7,
+							"Stamina": 10,
+							"Tackle": 5
+						},
+						"birthDate": "04/03/2016",
+						"name": "Yuri",
+						"nationality": "pt_BR",
+						"role": "ST",
+						"surname": "Santos",
+						"teamID": "Team5"
+					}]
+				},
+				"name": "Team5"
+			},
+			"Team6": {
+				"myPlayers": {
+					"CM": [{
+						"Values": {
+							"Aerial ability": 14,
+							"Dribling": 10,
+							"Finishing": 3,
+							"Free Kick": 9,
+							"Mental": 10,
+							"Pass": 13,
+							"Shoot": 13,
+							"Speed": 3,
+							"Stamina": 3,
+							"Tackle": 9
+						},
+						"birthDate": "15/05/2009",
+						"name": "\u0415\u0432\u0433\u0440\u0430\u0444",
+						"nationality": "ru_RU",
+						"role": "CM",
+						"surname": "\u0417\u0438\u043c\u0438\u043d",
+						"teamID": "Team6"
+					}, {
+						"Values": {
+							"Aerial ability": 14,
+							"Dribling": 3,
+							"Finishing": 3,
+							"Free Kick": 5,
+							"Mental": 5,
+							"Pass": 10,
+							"Shoot": 15,
+							"Speed": 2,
+							"Stamina": 4,
+							"Tackle": 12
+						},
+						"birthDate": "06/02/2000",
+						"name": "Mark",
+						"nationality": "en_CA",
+						"role": "CM",
+						"surname": "Walker",
+						"teamID": "Team6"
+					}],
+					"DC": [{
+						"Values": {
+							"Aerial ability": 9,
+							"Dribling": 5,
+							"Finishing": 6,
+							"Free Kick": 7,
+							"Mental": 14,
+							"Pass": 7,
+							"Shoot": 9,
+							"Speed": 2,
+							"Stamina": 1,
+							"Tackle": 12
+						},
+						"birthDate": "13/03/2020",
+						"name": "David",
+						"nationality": "bs_BA",
+						"role": "DC",
+						"surname": "Soto",
+						"teamID": "Team6"
+					}, {
+						"Values": {
+							"Aerial ability": 14,
+							"Dribling": 6,
+							"Finishing": 1,
+							"Free Kick": 6,
+							"Mental": 13,
+							"Pass": 4,
+							"Shoot": 10,
+							"Speed": 8,
+							"Stamina": 7,
+							"Tackle": 14
+						},
+						"birthDate": "24/06/1996",
+						"name": "\u039b\u03ad\u03c9\u03bd",
+						"nationality": "el_GR",
+						"role": "DC",
+						"surname": "\u039a\u03bf\u03c5\u03c4\u03c7\u03b9\u03ac\u03c2",
+						"teamID": "Team6"
+					}],
+					"DL": [{
+						"Values": {
+							"Aerial ability": 2,
+							"Dribling": 4,
+							"Finishing": 3,
+							"Free Kick": 5,
+							"Mental": 9,
+							"Pass": 10,
+							"Shoot": 7,
+							"Speed": 15,
+							"Stamina": 10,
+							"Tackle": 15
+						},
+						"birthDate": "14/02/1997",
+						"name": "Peter",
+						"nationality": "en_NZ",
+						"role": "DL",
+						"surname": "Powell",
+						"teamID": "Team6"
+					}],
+					"DR": [{
+						"Values": {
+							"Aerial ability": 2,
+							"Dribling": 7,
+							"Finishing": 9,
+							"Free Kick": 10,
+							"Mental": 12,
+							"Pass": 6,
+							"Shoot": 1,
+							"Speed": 10,
+							"Stamina": 9,
+							"Tackle": 13
+						},
+						"birthDate": "27/12/1996",
+						"name": "Ennio",
+						"nationality": "it_IT",
+						"role": "DR",
+						"surname": "Monduzzi",
+						"teamID": "Team6"
+					}],
+					"GK": [{
+						"Values": {
+							"Aerial ability": 11,
+							"Dribling": 5,
+							"Finishing": 9,
+							"Free Kick": 1,
+							"Mental": 7,
+							"Pass": 8,
+							"Shoot": 8,
+							"Speed": 13,
+							"Stamina": 10,
+							"Tackle": 3
+						},
+						"birthDate": "27/03/2002",
+						"name": "Robert",
+						"nationality": "sv_SE",
+						"role": "GK",
+						"surname": "Karlsson",
+						"teamID": "Team6"
+					}],
+					"LM": [{
+						"Values": {
+							"Aerial ability": 10,
+							"Dribling": 10,
+							"Finishing": 2,
+							"Free Kick": 8,
+							"Mental": 2,
+							"Pass": 15,
+							"Shoot": 14,
+							"Speed": 9,
+							"Stamina": 14,
+							"Tackle": 4
+						},
+						"birthDate": "22/03/1991",
+						"name": "Renato",
+						"nationality": "pt_PT",
+						"role": "LM",
+						"surname": "Loureiro",
+						"teamID": "Team6"
+					}],
+					"RM": [{
+						"Values": {
+							"Aerial ability": 1,
+							"Dribling": 9,
+							"Finishing": 8,
+							"Free Kick": 5,
+							"Mental": 3,
+							"Pass": 11,
+							"Shoot": 15,
+							"Speed": 15,
+							"Stamina": 14,
+							"Tackle": 9
+						},
+						"birthDate": "02/03/2014",
+						"name": "Robert",
+						"nationality": "en_NZ",
+						"role": "RM",
+						"surname": "Bradley",
+						"teamID": "Team6"
+					}],
+					"ST": [{
+						"Values": {
+							"Aerial ability": 11,
+							"Dribling": 15,
+							"Finishing": 13,
+							"Free Kick": 15,
+							"Mental": 8,
+							"Pass": 9,
+							"Shoot": 10,
+							"Speed": 4,
+							"Stamina": 4,
+							"Tackle": 10
+						},
+						"birthDate": "29/10/1986",
+						"name": "Jerzy",
+						"nationality": "pl_PL",
+						"role": "ST",
+						"surname": "Kochman",
+						"teamID": "Team6"
+					}, {
+						"Values": {
+							"Aerial ability": 13,
+							"Dribling": 12,
+							"Finishing": 13,
+							"Free Kick": 11,
+							"Mental": 6,
+							"Pass": 10,
+							"Shoot": 15,
+							"Speed": 1,
+							"Stamina": 1,
+							"Tackle": 10
+						},
+						"birthDate": "19/07/2007",
+						"name": "Lucas Gabriel",
+						"nationality": "pt_BR",
+						"role": "ST",
+						"surname": "Moura",
+						"teamID": "Team6"
+					}]
+				},
+				"name": "Team6"
+			},
+			"Team7": {
+				"myPlayers": {
+					"CM": [{
+						"Values": {
+							"Aerial ability": 12,
+							"Dribling": 6,
+							"Finishing": 2,
+							"Free Kick": 3,
+							"Mental": 1,
+							"Pass": 13,
+							"Shoot": 11,
+							"Speed": 3,
+							"Stamina": 10,
+							"Tackle": 10
+						},
+						"birthDate": "20/12/1997",
+						"name": "Hidde",
+						"nationality": "nl_NL",
+						"role": "CM",
+						"surname": "Tielemans",
+						"teamID": "Team7"
+					}, {
+						"Values": {
+							"Aerial ability": 15,
+							"Dribling": 7,
+							"Finishing": 5,
+							"Free Kick": 4,
+							"Mental": 9,
+							"Pass": 11,
+							"Shoot": 11,
+							"Speed": 2,
+							"Stamina": 2,
+							"Tackle": 13
+						},
+						"birthDate": "23/01/2007",
+						"name": "Ghenadie",
+						"nationality": "ro_RO",
+						"role": "CM",
+						"surname": "Dinu",
+						"teamID": "Team7"
+					}],
+					"DC": [{
+						"Values": {
+							"Aerial ability": 15,
+							"Dribling": 7,
+							"Finishing": 2,
+							"Free Kick": 5,
+							"Mental": 13,
+							"Pass": 4,
+							"Shoot": 2,
+							"Speed": 9,
+							"Stamina": 7,
+							"Tackle": 11
+						},
+						"birthDate": "20/11/1991",
+						"name": "Haralambie",
+						"nationality": "ro_RO",
+						"role": "DC",
+						"surname": "St\u0103nescu",
+						"teamID": "Team7"
+					}, {
+						"Values": {
+							"Aerial ability": 11,
+							"Dribling": 10,
+							"Finishing": 9,
+							"Free Kick": 3,
+							"Mental": 9,
+							"Pass": 7,
+							"Shoot": 7,
+							"Speed": 3,
+							"Stamina": 1,
+							"Tackle": 15
+						},
+						"birthDate": "19/08/1990",
+						"name": "Curt",
+						"nationality": "dk_DK",
+						"role": "DC",
+						"surname": "Dahl",
+						"teamID": "Team7"
+					}],
+					"DL": [{
+						"Values": {
+							"Aerial ability": 10,
+							"Dribling": 6,
+							"Finishing": 10,
+							"Free Kick": 1,
+							"Mental": 14,
+							"Pass": 6,
+							"Shoot": 8,
+							"Speed": 13,
+							"Stamina": 14,
+							"Tackle": 12
+						},
+						"birthDate": "02/08/2016",
+						"name": "Jeremy",
+						"nationality": "en_GB",
+						"role": "DL",
+						"surname": "Potts",
+						"teamID": "Team7"
+					}],
+					"DR": [{
+						"Values": {
+							"Aerial ability": 6,
+							"Dribling": 10,
+							"Finishing": 3,
+							"Free Kick": 8,
+							"Mental": 11,
+							"Pass": 7,
+							"Shoot": 10,
+							"Speed": 15,
+							"Stamina": 13,
+							"Tackle": 11
+						},
+						"birthDate": "26/02/2011",
+						"name": "Carolina",
+						"nationality": "es_MX",
+						"role": "DR",
+						"surname": "Melgar",
+						"teamID": "Team7"
+					}],
+					"GK": [{
+						"Values": {
+							"Aerial ability": 13,
+							"Dribling": 4,
+							"Finishing": 1,
+							"Free Kick": 8,
+							"Mental": 6,
+							"Pass": 1,
+							"Shoot": 3,
+							"Speed": 12,
+							"Stamina": 10,
+							"Tackle": 1
+						},
+						"birthDate": "14/06/1992",
+						"name": "Mateo",
+						"nationality": "es_MX",
+						"role": "GK",
+						"surname": "Castro",
+						"teamID": "Team7"
+					}],
+					"LM": [{
+						"Values": {
+							"Aerial ability": 2,
+							"Dribling": 10,
+							"Finishing": 4,
+							"Free Kick": 1,
+							"Mental": 9,
+							"Pass": 14,
+							"Shoot": 11,
+							"Speed": 11,
+							"Stamina": 12,
+							"Tackle": 1
+						},
+						"birthDate": "24/10/2012",
+						"name": "\u041b\u0430\u0434\u0438\u0441\u043b\u0430\u0432",
+						"nationality": "ru_RU",
+						"role": "LM",
+						"surname": "\u0411\u0435\u043b\u044f\u0435\u0432",
+						"teamID": "Team7"
+					}],
+					"RM": [{
+						"Values": {
+							"Aerial ability": 2,
+							"Dribling": 9,
+							"Finishing": 8,
+							"Free Kick": 5,
+							"Mental": 2,
+							"Pass": 13,
+							"Shoot": 12,
+							"Speed": 9,
+							"Stamina": 10,
+							"Tackle": 9
+						},
+						"birthDate": "17/09/2008",
+						"name": "Tamayd\u0131n",
+						"nationality": "tr_TR",
+						"role": "RM",
+						"surname": "F\u0131rat",
+						"teamID": "Team7"
+					}],
+					"ST": [{
+						"Values": {
+							"Aerial ability": 14,
+							"Dribling": 14,
+							"Finishing": 15,
+							"Free Kick": 15,
+							"Mental": 5,
+							"Pass": 4,
+							"Shoot": 11,
+							"Speed": 7,
+							"Stamina": 7,
+							"Tackle": 8
+						},
+						"birthDate": "27/10/2003",
+						"name": "Art\u016bras",
+						"nationality": "lt_LT",
+						"role": "ST",
+						"surname": "Kazlauskas",
+						"teamID": "Team7"
+					}, {
+						"Values": {
+							"Aerial ability": 15,
+							"Dribling": 11,
+							"Finishing": 14,
+							"Free Kick": 13,
+							"Mental": 10,
+							"Pass": 2,
+							"Shoot": 13,
+							"Speed": 2,
+							"Stamina": 4,
+							"Tackle": 7
+						},
+						"birthDate": "12/06/1994",
+						"name": "Ivo",
+						"nationality": "sl_SI",
+						"role": "ST",
+						"surname": "\u010deh",
+						"teamID": "Team7"
+					}]
+				},
+				"name": "Team7"
+			},
+			"Team8": {
+				"myPlayers": {
+					"CM": [{
+						"Values": {
+							"Aerial ability": 10,
+							"Dribling": 1,
+							"Finishing": 3,
+							"Free Kick": 5,
+							"Mental": 10,
+							"Pass": 11,
+							"Shoot": 9,
+							"Speed": 9,
+							"Stamina": 3,
+							"Tackle": 9
+						},
+						"birthDate": "05/11/2012",
+						"name": "Achim",
+						"nationality": "ro_RO",
+						"role": "CM",
+						"surname": "Dinu",
+						"teamID": "Team8"
+					}, {
+						"Values": {
+							"Aerial ability": 14,
+							"Dribling": 1,
+							"Finishing": 4,
+							"Free Kick": 6,
+							"Mental": 10,
+							"Pass": 13,
+							"Shoot": 12,
+							"Speed": 8,
+							"Stamina": 8,
+							"Tackle": 12
+						},
+						"birthDate": "27/03/2014",
+						"name": "Mariusz",
+						"nationality": "pl_PL",
+						"role": "CM",
+						"surname": "\u017bero",
+						"teamID": "Team8"
+					}],
+					"DC": [{
+						"Values": {
+							"Aerial ability": 9,
+							"Dribling": 10,
+							"Finishing": 10,
+							"Free Kick": 9,
+							"Mental": 15,
+							"Pass": 5,
+							"Shoot": 10,
+							"Speed": 5,
+							"Stamina": 7,
+							"Tackle": 15
+						},
+						"birthDate": "17/09/2001",
+						"name": "Stig",
+						"nationality": "sv_SE",
+						"role": "DC",
+						"surname": "Nilsson",
+						"teamID": "Team8"
+					}, {
+						"Values": {
+							"Aerial ability": 13,
+							"Dribling": 7,
+							"Finishing": 9,
+							"Free Kick": 6,
+							"Mental": 11,
+							"Pass": 5,
+							"Shoot": 6,
+							"Speed": 7,
+							"Stamina": 4,
+							"Tackle": 14
+						},
+						"birthDate": "19/05/2013",
+						"name": "Adrian",
+						"nationality": "pl_PL",
+						"role": "DC",
+						"surname": "Nicewicz",
+						"teamID": "Team8"
+					}],
+					"DL": [{
+						"Values": {
+							"Aerial ability": 4,
+							"Dribling": 3,
+							"Finishing": 9,
+							"Free Kick": 3,
+							"Mental": 12,
+							"Pass": 7,
+							"Shoot": 2,
+							"Speed": 15,
+							"Stamina": 9,
+							"Tackle": 9
+						},
+						"birthDate": "26/06/2016",
+						"name": "Mika",
+						"nationality": "nl_NL",
+						"role": "DL",
+						"surname": "Brugman",
+						"teamID": "Team8"
+					}],
+					"DR": [{
+						"Values": {
+							"Aerial ability": 7,
+							"Dribling": 7,
+							"Finishing": 6,
+							"Free Kick": 2,
+							"Mental": 11,
+							"Pass": 9,
+							"Shoot": 3,
+							"Speed": 15,
+							"Stamina": 15,
+							"Tackle": 11
+						},
+						"birthDate": "12/12/1983",
+						"name": "Ana",
+						"nationality": "es_MX",
+						"role": "DR",
+						"surname": "Sanches",
+						"teamID": "Team8"
+					}],
+					"GK": [{
+						"Values": {
+							"Aerial ability": 9,
+							"Dribling": 2,
+							"Finishing": 10,
+							"Free Kick": 10,
+							"Mental": 1,
+							"Pass": 3,
+							"Shoot": 10,
+							"Speed": 14,
+							"Stamina": 10,
+							"Tackle": 5
+						},
+						"birthDate": "19/03/1986",
+						"name": "Nicolas",
+						"nationality": "pt_BR",
+						"role": "GK",
+						"surname": "da Cruz",
+						"teamID": "Team8"
+					}],
+					"LM": [{
+						"Values": {
+							"Aerial ability": 4,
+							"Dribling": 15,
+							"Finishing": 5,
+							"Free Kick": 10,
+							"Mental": 8,
+							"Pass": 9,
+							"Shoot": 12,
+							"Speed": 12,
+							"Stamina": 10,
+							"Tackle": 4
+						},
+						"birthDate": "12/10/1982",
+						"name": "G\u00fcla\u011fa",
+						"nationality": "tr_TR",
+						"role": "LM",
+						"surname": "\u0130hsano\u011flu",
+						"teamID": "Team8"
+					}],
+					"RM": [{
+						"Values": {
+							"Aerial ability": 10,
+							"Dribling": 15,
+							"Finishing": 4,
+							"Free Kick": 6,
+							"Mental": 8,
+							"Pass": 11,
+							"Shoot": 9,
+							"Speed": 9,
+							"Stamina": 11,
+							"Tackle": 10
+						},
+						"birthDate": "17/11/1993",
+						"name": "Romulus",
+						"nationality": "ro_RO",
+						"role": "RM",
+						"surname": "Florea",
+						"teamID": "Team8"
+					}],
+					"ST": [{
+						"Values": {
+							"Aerial ability": 14,
+							"Dribling": 15,
+							"Finishing": 9,
+							"Free Kick": 14,
+							"Mental": 7,
+							"Pass": 8,
+							"Shoot": 12,
+							"Speed": 7,
+							"Stamina": 3,
+							"Tackle": 3
+						},
+						"birthDate": "07/02/1989",
+						"name": "Michael",
+						"nationality": "en_US",
+						"role": "ST",
+						"surname": "Young",
+						"teamID": "Team8"
+					}, {
+						"Values": {
+							"Aerial ability": 14,
+							"Dribling": 10,
+							"Finishing": 13,
+							"Free Kick": 14,
+							"Mental": 7,
+							"Pass": 10,
+							"Shoot": 10,
+							"Speed": 2,
+							"Stamina": 7,
+							"Tackle": 6
+						},
+						"birthDate": "13/08/2009",
+						"name": "Javier",
+						"nationality": "es_ES",
+						"role": "ST",
+						"surname": "Ord\u00f3\u00f1ez",
+						"teamID": "Team8"
+					}]
+				},
+				"name": "Team8"
+			},
+			"Team9": {
+				"myPlayers": {
+					"CM": [{
+						"Values": {
+							"Aerial ability": 11,
+							"Dribling": 5,
+							"Finishing": 4,
+							"Free Kick": 10,
+							"Mental": 2,
+							"Pass": 11,
+							"Shoot": 13,
+							"Speed": 10,
+							"Stamina": 10,
+							"Tackle": 15
+						},
+						"birthDate": "14/06/2006",
+						"name": "Paulius",
+						"nationality": "lt_LT",
+						"role": "CM",
+						"surname": "Jankauskas",
+						"teamID": "Team9"
+					}, {
+						"Values": {
+							"Aerial ability": 13,
+							"Dribling": 5,
+							"Finishing": 9,
+							"Free Kick": 2,
+							"Mental": 5,
+							"Pass": 9,
+							"Shoot": 12,
+							"Speed": 10,
+							"Stamina": 8,
+							"Tackle": 11
+						},
+						"birthDate": "17/03/1991",
+						"name": "\u0386\u03c1\u03b7\u03c2",
+						"nationality": "el_GR",
+						"role": "CM",
+						"surname": "\u0393\u03b9\u03b1\u03bd\u03bd\u03cc\u03c0\u03bf\u03c5\u03bb\u03bf\u03c2",
+						"teamID": "Team9"
+					}],
+					"DC": [{
+						"Values": {
+							"Aerial ability": 10,
+							"Dribling": 9,
+							"Finishing": 2,
+							"Free Kick": 7,
+							"Mental": 12,
+							"Pass": 6,
+							"Shoot": 8,
+							"Speed": 8,
+							"Stamina": 1,
+							"Tackle": 14
+						},
+						"birthDate": "23/06/1997",
+						"name": "Sudi",
+						"nationality": "tr_TR",
+						"role": "DC",
+						"surname": "G\u00fc\u00e7l\u00fc",
+						"teamID": "Team9"
+					}, {
+						"Values": {
+							"Aerial ability": 10,
+							"Dribling": 6,
+							"Finishing": 1,
+							"Free Kick": 3,
+							"Mental": 9,
+							"Pass": 4,
+							"Shoot": 10,
+							"Speed": 6,
+							"Stamina": 9,
+							"Tackle": 12
+						},
+						"birthDate": "01/12/2003",
+						"name": "Marc",
+						"nationality": "es_ES",
+						"role": "DC",
+						"surname": "Aller",
+						"teamID": "Team9"
+					}],
+					"DL": [{
+						"Values": {
+							"Aerial ability": 3,
+							"Dribling": 6,
+							"Finishing": 1,
+							"Free Kick": 8,
+							"Mental": 15,
+							"Pass": 7,
+							"Shoot": 5,
+							"Speed": 13,
+							"Stamina": 15,
+							"Tackle": 15
+						},
+						"birthDate": "02/05/2015",
+						"name": "Arne",
+						"nationality": "sv_SE",
+						"role": "DL",
+						"surname": "Sj\u00f6gren",
+						"teamID": "Team9"
+					}],
+					"DR": [{
+						"Values": {
+							"Aerial ability": 6,
+							"Dribling": 3,
+							"Finishing": 8,
+							"Free Kick": 10,
+							"Mental": 12,
+							"Pass": 6,
+							"Shoot": 3,
+							"Speed": 14,
+							"Stamina": 13,
+							"Tackle": 14
+						},
+						"birthDate": "04/06/1994",
+						"name": "\u041f\u0430\u043d\u0442\u043e",
+						"nationality": "bg_BG",
+						"role": "DR",
+						"surname": "\u0412\u0440\u0430\u0436\u0430\u043b\u0441\u043a\u0438",
+						"teamID": "Team9"
+					}],
+					"GK": [{
+						"Values": {
+							"Aerial ability": 12,
+							"Dribling": 6,
+							"Finishing": 3,
+							"Free Kick": 10,
+							"Mental": 4,
+							"Pass": 10,
+							"Shoot": 10,
+							"Speed": 11,
+							"Stamina": 5,
+							"Tackle": 6
+						},
+						"birthDate": "04/01/2015",
+						"name": "Uffe",
+						"nationality": "dk_DK",
+						"role": "GK",
+						"surname": "Holst",
+						"teamID": "Team9"
+					}],
+					"LM": [{
+						"Values": {
+							"Aerial ability": 9,
+							"Dribling": 14,
+							"Finishing": 2,
+							"Free Kick": 2,
+							"Mental": 6,
+							"Pass": 11,
+							"Shoot": 13,
+							"Speed": 10,
+							"Stamina": 9,
+							"Tackle": 10
+						},
+						"birthDate": "28/08/1991",
+						"name": "Bruce",
+						"nationality": "en_NZ",
+						"role": "LM",
+						"surname": "Webby",
+						"teamID": "Team9"
+					}],
+					"RM": [{
+						"Values": {
+							"Aerial ability": 7,
+							"Dribling": 9,
+							"Finishing": 3,
+							"Free Kick": 10,
+							"Mental": 4,
+							"Pass": 9,
+							"Shoot": 12,
+							"Speed": 14,
+							"Stamina": 12,
+							"Tackle": 3
+						},
+						"birthDate": "21/11/1994",
+						"name": "Johan",
+						"nationality": "sv_SE",
+						"role": "RM",
+						"surname": "Karlsson",
+						"teamID": "Team9"
+					}],
+					"ST": [{
+						"Values": {
+							"Aerial ability": 9,
+							"Dribling": 9,
+							"Finishing": 10,
+							"Free Kick": 10,
+							"Mental": 10,
+							"Pass": 3,
+							"Shoot": 11,
+							"Speed": 5,
+							"Stamina": 10,
+							"Tackle": 4
+						},
+						"birthDate": "05/01/1994",
+						"name": "Maksim",
+						"nationality": "et_EE",
+						"role": "ST",
+						"surname": "Madisson",
+						"teamID": "Team9"
+					}, {
+						"Values": {
+							"Aerial ability": 14,
+							"Dribling": 14,
+							"Finishing": 10,
+							"Free Kick": 12,
+							"Mental": 9,
+							"Pass": 6,
+							"Shoot": 15,
+							"Speed": 8,
+							"Stamina": 1,
+							"Tackle": 3
+						},
+						"birthDate": "15/04/2000",
+						"name": "Alejandro",
+						"nationality": "es_MX",
+						"role": "ST",
+						"surname": "Guevara",
+						"teamID": "Team9"
+					}]
+				},
+				"name": "Team9"
+			}
+		},
+		"name": "SerieA",
+        "numberOfTeams": 10,
+        "id":1
+	}]
+}
